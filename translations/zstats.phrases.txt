@@ -1,0 +1,550 @@
+﻿"Phrases"
+{
+	"Reward_Kill"
+	{
+		"#format"		"{1:s},{2:i},{3:N},{4:i}"
+		"en"			"{1} You got {2} points for 	killing {3} [{4}]."
+		"ru"			"{1} Вы получили {2} очка за 	убийство {3} [{4}]."
+	}
+	
+	"Reward_Grenade_Kill"
+	{
+		"#format"		"{1:s},{2:i},{3:N},{4:i}"
+		"en"			"{1} You got {2} points for 	killing {3} 	with a grenade [{4}]."
+		"ru"			"{1} Вы получили {2} очка за 	убийство {3} 	гранатой [{4}]."
+	}
+	
+	"Reward_Molotov_Kill"
+	{
+		"#format"		"{1:s},{2:i},{3:N},{4:i}"
+		"en"			"{1} You got {2} points for 	killing {3} 	with a Molotov [{4}]."
+		"ru"			"{1} Вы получили {2} очка за 	убийство {3} 	коктейлем Молотова [{4}]."
+	}
+	
+	"Reward_Death"
+	{
+		"#format"		"{1:s},{2:i},{3:i}"
+		"en"			"{1} You lost {2} point for 	death [{3}]."
+		"ru"			"{1} Вы потеряли {2} очко за 	смерть [{3}]."
+	}
+	
+	"Reward_HeadShot"
+	{
+		"#format"		"{1:s},{2:i},{3:i}"
+		"en"			"{1} You got {2} point for 	headshot [{3}]."
+		"ru"			"{1} Вы получили {2} очко за 	убийство в голову [{3}]."
+	}
+	
+	"Reward_Assist"
+	{
+		"#format"		"{1:s},{2:i},{3:i}"
+		"en"			"{1} You got {2} point for 	assist [{3}]."
+		"ru"			"{1} Вы получили {2} очко за 	помощь в убийстве [{3}]."
+	}
+	
+	"Reward_Infection"
+	{
+		"#format"		"{1:s},{2:i},{3:N},{4:i}"
+		"en"			"{1} You got {2} points for 	infection {3} [{4}]."
+		"ru"			"{1} Вы получили {2} очка за 	заражение {3} [{4}]."
+	}
+	
+	"Reward_Damage"
+	{
+		"#format"		"{1:s},{2:i},{3:i}"
+		"en"			"{1} You got {2} points for 	causing zombie damage [{3}]."
+		"ru"			"{1} Вы получили {2} очков за 	нанесение урона зомби [{3}]."
+	}
+	
+	"Reward_Props"
+	{
+		"#format"		"{1:s},{2:i},{3:i}"
+		"en"			"{1} You got {2} points for 	causing props damage [{3}]."
+		"ru"			"{1} Вы получили {2} очков за 	нанесение урона предметам [{3}]."
+	}
+	
+	"Reward_Win"
+	{
+		"#format"		"{1:s},{2:i},{3:i}"
+		"en"			"{1} You got {2} points for 	win [{3}]."
+		"ru"			"{1} Вы получили {2} очка за 	победу [{3}]."
+	}
+	
+	"Reward_Solo_Win"
+	{
+		"#format"		"{1:s},{2:i},{3:i}"
+		"en"			"{1} You got {2} points for 	SOLO win [{3}]."
+		"ru"			"{1} Вы получили {2} очков за 	SOLO win [{3}]."
+	}
+	"Reward_Duo_Win"
+	{
+		"#format"		"{1:s},{2:i},{3:i}"
+		"en"			"{1} You got {2} points for 	DUO win [{3}]."
+		"ru"			"{1} Вы получили {2} очков за 	DUO win [{3}]."
+	}
+	"Reward_Trio_Win"
+	{
+		"#format"		"{1:s},{2:i},{3:i}"
+		"en"			"{1} You got {2} points for 	TRIO win [{3}]."
+		"ru"			"{1} Вы получили {2} очков за 	TRIO win [{3}]."
+	}
+	
+	"Reward_Lose"
+	{
+		"#format"		"{1:s},{2:i},{3:i}"
+		"en"			"{1} You lost {2} points for 	defeat [{3}]."
+		"ru"			"{1} Вы потеряли {2} очка за 	поражение [{3}]."
+	}
+	
+	"Reward_Win_Lose"
+	{
+		"#format"		"{1:s},{2:i},{3:i},{4:i}"
+		"en"			"{1} You got {2} points for 	zombie win and lost {3} points for 	human defeat [{4}]."
+		"ru"			"{1} Вы получили {2} очка за 	победу зомби и потеряли {3} очка за 	поражение человеком [{4}]."
+	}
+	
+	"Reward_TopDamager"
+	{
+		"#format"		"{1:s},{2:i},{3:i}"
+		"en"			"{1} You got {2} points for 	top 1 damager [{3}]."
+		"ru"			"{1} Вы получили {2} очков за 	топ 1 по урону [{3}]."
+	}
+	
+	"Reward_TopDamagers"
+	{
+		"#format"		"{1:s},{2:i},{3:i}"
+		"en"			"{1} You got {2} points for 	top damager [{3}]."
+		"ru"			"{1} Вы получили {2} очка за 	топ по урону [{3}]."
+	}
+	
+	"Reward_Activity"
+	{
+		"#format"		"{1:s},{2:i},{3:i}"
+		"en"			"{1} You got {2} points for 	active play [{3}]."
+		"ru"			"{1} Вы получили {2} очков за 	активную игру [{3}]."
+	}
+	
+	"TopDamagersTitle"
+	{
+		"en"			" ===========  Top damagers:  =========="
+		"ru"			" ============  Топ урона:  ==========="
+	}
+	
+	"TopDamagers"
+	{
+		"#format"		"{1:i},{2:N},{3:i}"
+		"en"			" {1}. {2}: 	{3} points"
+		"ru"			" {1}. {2}: 	{3} ед."
+	}
+	
+	"PropHealth"
+	{
+		"#format"	"{1:i}"
+		"en"			"\n<font size='20' color='#C0C0C0'>Strength:</font>	<font size='20' color='#FF0000'>{1}</font>"
+		"ru"			"\n<font size='20' color='#C0C0C0'>Прочность:</font>	<font size='20' color='#FF0000'>{1}</font>"
+	}
+	
+	"Player_Connect"
+	{
+		"#format"		"{1:s},{2:N},{3:i},{4:s}"
+		"en"			"{1} {2} [{3}] connected 	({4})."
+		"ru"			"{1} {2} [{3}] подключён 	({4})."
+	}
+	
+	"Player_Disconnect"
+	{
+		"#format"		"{1:s},{2:N},{3:i}"
+		"en"			"{1} {2} [{3}] disconnected."
+		"ru"			"{1} {2} [{3}] отключён."
+	}
+	
+	"Player_Disconnect_Crash"
+	{
+		"#format"		"{1:s},{2:N},{3:i}"
+		"en"			"{1} {2} [{3}] disconnected (timed out)."
+		"ru"			"{1} {2} [{3}] отключён (вылетел из игры)."
+	}
+	
+	"Player_Disconnect_NoUserLogon"
+	{
+		"#format"		"{1:s},{2:N},{3:i}"
+		"en"			"{1} {2} [{3}] disconnected (lost connection with Steam)."
+		"ru"			"{1} {2} [{3}] отключён (потеря связи со Steam)."
+	}
+	
+	"Player_Disconnect_VAC"
+	{
+		"#format"		"{1:s},{2:N},{3:i}"
+		"en"			"{1} {2} [{3}] disconnected (VAC validation error)."
+		"ru"			"{1} {2} [{3}] отключён (ошибка проверки VAC)."
+	}
+	
+	"StatsDisabled"
+	{
+		"#format"		"{1:s},{2:i}"
+		"en"			"{1} Statistics needs {2} players to work."
+		"ru"			"{1} Для работы статистики нужно {2} игроков."
+	}
+	
+	"Welcome_Good_Clantag_Message"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} 	You are playing with the {2} 	tag. You get the maximum points."
+		"ru"			"{1} 	Вы играете с тегом {2}	. Вы получаете максимальное количество очков."
+	}
+	
+	"Welcome_Bad_Clantag_Message"
+	{
+		"#format"		"{1:s},{2:s},{3:s}"
+		"en"			"{1} 	You are playing with the {2} 	tag. Use the {3} 	to get more points."
+		"ru"			"{1} 	Вы играете с тегом {2}	. Используйте тег {3} 	чтобы получать больше очков."
+	}
+	
+	"Welcome_No_Clantag_Message"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{1} 	You are playing without clan tag. Use the {2} 	to get more points."
+		"ru"			"{1} 	Вы играете без тега. Используйте тег {2} 	чтобы получать больше очков."
+	}
+	
+	"ZStats_Menu_Title"
+	{
+		"en"			"[ZStats] Statistics:"
+		"ru"			"[ZStats] Статистика:"
+	}
+	
+	"ZStats_Stats_Human"
+	{
+		"#format"		"{1:s},{2:i},{3:i},{4:s}"
+		"en"			"Human: {1} HMR\nKills: {2}  Deaths: {3}  K/D: {4}"
+		"ru"			"Человек: {1} HMR\nУбийств: {2}  Смертей: {3}  У/С: {4}"
+	}
+	
+	"ZStats_Stats_Zombie"
+	{
+		"#format"		"{1:s},{2:i},{3:i},{4:s}"
+		"en"			"Zombie: {1} ZBR\nInfections: {2}  Deaths: {3}  I/D: {4}"
+		"ru"			"Зомби: {1} ZBR\nЗаражений: {2}  Смертей: {3}  З/С: {4}"
+	}
+	
+	"ZStats_Stats_Online"
+	{
+		"en"			"Online: %0.2f h.\n "
+		"ru"			"Онлайн: %0.2f ч.\n "
+	}
+	
+	"ZStats_Human_Menu_Title"
+	{
+		"en"			"[ZStats] Statistics (human):"
+		"ru"			"[ZStats] Статистика (человек):"
+	}
+	
+	"ZStats_Extended_Human"
+	{
+		"#format"		"{1:i},{2:s},{3:i},{4:s},{5:s},{6:i},{7:i},{8:i},{9:s},{10:i}"
+		"en"			"Extended stats:\nRounds played: {1}    Wins: {2}\nShoots: {3}    Accuracy: {4}    ({5} ☠)\nTotal damage: {6}    Avr. damage: {7}    Assists: {8}\nHead kills: {9}    Props damage: {10}"
+		"ru"			"Расширенная статистика:\nРаундов сыграно: {1}    Побед: {2}\nВыстрелов: {3}    Точность: {4}    ({5} ☠)\nВсего урона: {6}    Ср.урон: {7}    Ассисты: {8}\nУб. в голову: {9}    Ур. предметам: {10}"
+	}
+	
+	"ZStats_Damagers_Human"
+	{
+		"#format"		"{1:i},{2:i},{3:i},{4:i},{5:i}"
+		"en"			"Top damage ranked:\nTop1: {1} t.    Top2: {2} t.    Top3: {3} t.\nTop4: {4} t.    Top5: {5} t."
+		"ru"			"Топ по урону занимал:\nTop1: {1} р.    Top2: {2} р.    Top3: {3} р.\nTop4: {4} р.    Top5: {5} р."
+	}
+	
+	"ZStats_Zombie_Menu_Title"
+	{
+		"en"			"[ZStats] Statistics (zombie):"
+		"ru"			"[ZStats] Статистика (зомби):"
+	}
+	
+	"ZStats_Extended_Zombie"
+	{
+		"#format"		"{1:i},{2:s},{3:i},{4:i}"
+		"en"			"Extended stats:\nRounds played: {1}    Wins: {2}\nTotal taked damage: {3}\nFirst zombie plays: {4} t."
+		"ru"			"Расширенная статистика:\nРаундов сыграно: {1}    Побед: {2}\nВсего урона получено: {3}\nПервым зомби был: {4} р."
+	}
+	
+	"ZStats_Online_Menu_Title"
+	{
+		"en"			"[ZStats] Statistics (online):"
+		"ru"			"[ZStats] Статистика (онлайн):"
+	}
+	
+	"ZStats_Total_Online_Time"
+	{
+		"#format"		"{1:i},{2:i},{3:i}"
+		"en"			"{1} D. {2} H. {3} M.  (%0.1f h.)"
+		"ru"			"{1} Дн. {2} Час. {3} Мин.  (%0.1f ч.)"
+	}
+	
+	"ZStats_Total_Online_PlayTime"
+	{
+		"#format"		"{1:i},{2:i},{3:i}"
+		"en"			"{1} D. {2} H. {3} M.  (%0.1f h.)"
+		"ru"			"{1} Дн. {2} Час. {3} Мин.  (%0.1f ч.)"
+	}
+	
+	"ZStats_Total_Time"
+	{
+		"#format"		"{1:s}"
+		"en"			"Total online:\n{1}"
+		"ru"			"Общее время на сервере:\n{1}"
+	}
+	
+	"ZStats_Total_PlayTime"
+	{
+		"#format"		"{1:s}"
+		"en"			"Active play time:\n{1}\n "
+		"ru"			"Время активной игры:\n{1}\n "
+	}
+	
+	"ZStats_Back"
+	{
+		"en"			"Back"
+		"ru"			"Назад"
+	}
+	
+	"ZStats_Top_Title"
+	{
+		"en"			"[ZStats] Top Players List:"
+		"ru"			"[ZStats] Список лучших игроков:"
+	}
+	
+	"ZStats_ZBR"
+	{
+		"en"			"By ZBR"
+		"ru"			"По ZBR"
+	}
+	
+	"ZStats_HMR"
+	{
+		"en"			"By HMR"
+		"ru"			"По HMR"
+	}
+	
+	"ZStats_JZP"
+	{
+		"en"			"By Points"
+		"ru"			"По Очкам"
+	}
+	
+	"ZStats_Top_Damage"
+	{
+		"en"			"By Damage"
+		"ru"			"По Урону"
+	}
+	
+	"ZStats_Online"
+	{
+		"en"			"By Online Time"
+		"ru"			"По Онлайну"
+	}
+	
+	"ZStats_ZBR_Top_Title"
+	{
+		"en"			"[ZStats] Top Zombies List:"
+		"ru"			"[ZStats] Список лучших зомби:"
+	}
+	
+	"ZStats_HMR_Top_Title"
+	{
+		"en"			"[ZStats] Top Humans List:"
+		"ru"			"[ZStats] Список лучших людей:"
+	}
+	
+	"ZStats_JZP_Top_Title"
+	{
+		"en"			"[ZStats] Top Players by Points:"
+		"ru"			"[ZStats] Лучшие игроки по очкам:"
+	}
+	
+	"ZStats_Damage_Top_Title"
+	{
+		"en"			"[ZStats] Top Players by Damage:"
+		"ru"			"[ZStats] Топ по урону:"
+	}
+	
+	"ZStats_Online_Top_Title"
+	{
+		"en"			"[ZStats] Top Online Players List"
+		"ru"			"[ZStats] Топ по онлайну:"
+	}
+	
+	"ZStats_Total_Online_Top_Title"
+	{
+		"en"			"[ZStats] Most Connected:"
+		"ru"			"[ZStats] Дольше всех были на сервере:"
+	}
+	
+	"ZStats_Online_PlayTime_Top_Title"
+	{
+		"en"			"[ZStats] Most Played:"
+		"ru"			"[ZStats] Больше всего играли:"
+	}
+	
+	"ZStats_Top_TotalOnline"
+	{
+		"en"			"By the Overall Time on the Server"
+		"ru"			"По Общему Времени на Сервере"
+	}
+	
+	"ZStats_Top_PlayTime"
+	{
+		"en"			"By Game Time"
+		"ru"			"По Времени Игры"
+	}
+	
+	"ZStats_Damage_Top_List"
+	{
+		"#format"		"{1:s},{2:i},{3:s},{4:i}"
+		"en"			"{1}\n{2}. {3}: {4} u."
+		"ru"			"{1}\n{2}. {3}: {4} ед."
+	}
+	
+	"ZStats_Online_Top"
+	{
+		"#format"		"{1:s},{2:i},{3:s}"
+		"en"			"{1}\n{2}. {3}: %0.1f h."
+		"ru"			"{1}\n{2}. {3}: %0.1f ч."
+	}
+	
+	"ZStats_Top"
+	{
+		"en"			"Top players list"
+		"ru"			"Список лучших игроков"
+	}
+	
+	"ZStats_MyStats"
+	{
+		"en"			"My stats"
+		"ru"			"Моя статистика"
+	}
+	
+	"ZStats_Rank_Title"
+	{
+		"en"			"[ZStats] Level:"
+		"ru"			"[ZStats] Уровень:"
+	}
+	
+	"ZStats_Current_Rank"
+	{
+		"#format"		"{1:s}"
+		"en"			"Current Rank: {1}"
+		"ru"			"Текущее звание: {1}"
+	}
+	
+	"ZStats_Progress"
+	{
+		"#format"		"{1:i}"
+		"en"			"Progress: {1}%"
+		"ru"			"Прогресс: {1}%"
+	}
+	
+	"NotRanked"
+	{
+		"en"			"Not Ranked"
+		"ru"			"Без звания"
+	}
+	"Calibration"
+	{
+		"en"			"Calibration"
+		"ru"			"Калибровка"
+	}
+	"SilverI"
+	{
+		"en"			"Silver I"
+		"ru"			"Серебро - I"
+	}
+	"SilverII"
+	{
+		"en"			"Silver II"
+		"ru"			"Серебро - II"
+	}
+	"SilverIII"
+	{
+		"en"			"Silver III"
+		"ru"			"Серебро - III"
+	}
+	"SilverIV"
+	{
+		"en"			"Silver IV"
+		"ru"			"Серебро - IV"
+	}
+	"SilverElite"
+	{
+		"en"			"Silver Elite"
+		"ru"			"Серебро - Элита"
+	}
+	"SilverEliteMaster"
+	{
+		"en"			"Silver Elite Master"
+		"ru"			"Серебро - Великий Магистр"
+	}
+	"GoldNovaI"
+	{
+		"en"			"Gold Nova I"
+		"ru"			"Золотая Звезда - I"
+	}
+	"GoldNovaII"
+	{
+		"en"			"Gold Nova II"
+		"ru"			"Золотая Звезда - II"
+	}
+	"GoldNovaIII"
+	{
+		"en"			"Gold Nova III"
+		"ru"			"Золотая Звезда - III"
+	}
+	"GoldNovaMaster"
+	{
+		"en"			"Gold Nova Master"
+		"ru"			"Золотая Звезда - Магистр"
+	}
+	"MasterGuardianI"
+	{
+		"en"			"Master Guardian I"
+		"ru"			"Магистр-хранитель - I"
+	}
+	"MasterGuardianII"
+	{
+		"en"			"Master Guardian II"
+		"ru"			"Магистр-хранитель - II"
+	}
+	"MasterGuardianElite"
+	{
+		"en"			"Master Guardian Elite"
+		"ru"			"Магистр-хранитель - Элита"
+	}
+	"DistinguishedMasterGuardian"
+	{
+		"en"			"Distinguished Master Guardian"
+		"ru"			"Заслуженный Магистр-хранитель"
+	}
+	"LegendaryEagle"
+	{
+		"en"			"Legendary Eagle"
+		"ru"			"Легендарный Беркут"
+	}
+	"LegendaryEagleMaster"
+	{
+		"en"			"Legendary Eagle Master"
+		"ru"			"Легендарный Беркут-магистр"
+	}
+	"SupremeMasterFirstClass"
+	{
+		"en"			"Supreme Master First Class"
+		"ru"			"Великий Магистр Высшего Ранга"
+	}
+	"TheGlobalElite"
+	{
+		"en"			"The Global Elite"
+		"ru"			"Всемирная Элита"
+	}
+	"Master"
+	{
+		"en"			"(Master)"
+		"ru"			"(Мастер)"
+	}
+}

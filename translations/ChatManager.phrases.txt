@@ -1,0 +1,451 @@
+﻿"Phrases"
+{
+	"Chat_Menu_Title"
+	{
+		"en"			"Chat settings:"
+		"ru"			"Настройки чата:"
+	}
+	
+	"Chat_SetPrefix"
+	{
+		"en"			"Set prefix"
+		"ru"			"Установить префикс"
+	}
+	
+	"Chat_SetPrefixColor"
+	{
+		"#format"		"{1:s}"
+		"en"			"Change prefix color ({1})"
+		"ru"			"Цвет префикса ({1})"
+	}
+	
+	"Chat_SetNameColor"
+	{
+		"#format"		"{1:s}"
+		"en"			"Change nickname color ({1})"
+		"ru"			"Цвет ника ({1})"
+	}
+	
+	"Chat_SetTextColor"
+	{
+		"#format"		"{1:s}"
+		"en"			"Change text color ({1})"
+		"ru"			"Цвет текста ({1})"
+	}
+	
+	"Chat_SetAdditionalPrefix"
+	{
+		"en"			"Additional prefix"
+		"ru"			"Дополнительный префикс"
+	}
+
+	"Prefix_Menu_Title"
+	{
+		"en"			"Prefix selection:"
+		"ru"			"Выбор префикса:"
+	}
+	
+	"Current_Prefix"
+	{
+		"#format"		"{1:s}"
+		"en"			"Current prefix: {1}"
+		"ru"			"Текущий префикс: {1}"
+	}
+	
+	"None_Prefix"
+	{
+		"en"			"Current prefix: Missing"
+		"ru"			"Текущий префикс: Отсутствует"
+	}
+	
+	"Setup_Prefix"
+	{
+		"en"			"Setup prefix"
+		"ru"			"Установить префикс"
+	}
+	
+	"Change_Prefix"
+	{
+		"en"			"Change prefix"
+		"ru"			"Изменить префикс"
+	}
+	
+	"Back"
+	{
+		"en"			"Back"
+		"ru"			"Назад"
+	}
+	
+	"Cancel"
+	{
+		"en"			"Cancel"
+		"ru"			"Отменить"
+	}
+	
+	"Action_Cancel"
+	{
+		"en"			"Waiting for prefix entry terminated!"
+		"ru"			"Ожидание ввода префикса прекращено!"
+	}
+	
+	"Prefix_MaxLength"
+	{
+		"en"			"Maximum prefix length exceeded! Try again."
+		"ru"			"Превышена максимальная длина префикса! Попробуйте ещё раз."
+	}
+	
+	"Empty_Prefix"
+	{
+		"en"			"Prefix can't be empty! Try again."
+		"ru"			"Префикс не может быть пустым! Попробуйте ещё раз."
+	}
+	
+	"Space_Prefix"
+	{
+		"en"			"Prefix can't begin with a space! Try again."
+		"ru"			"Префикс не может начинаться с пробела! Попробуйте ещё раз."
+	}
+	
+	"Prefix_Forbidden_Symbols"
+	{
+		"en"			"Prefix contains forbidden characters! Try again."
+		"ru"			"Префикс содержит запрещённые символы! Попробуйте ещё раз."
+	}
+	
+	"Prefix_Forbidden"
+	{
+		"en"			"This prefix is not allowed. Try again."
+		"ru"			"Данный префикс запрещён! Попробуйте ещё раз."
+	}
+	
+	"Print_Prefix"
+	{
+		"en"			"Enter the desired prefix in the chat:"
+		"ru"			"Введите желаемый префикс в чат:"
+	}
+	
+	"Chat_Clear"
+	{
+		"en"			"Reset settings"
+		"ru"			"Сбросить настройки"
+	}
+	
+	"Color_Menu_Title"
+	{
+		"en"			"Choose a color:"
+		"ru"			"Выберите цвет:"
+	}
+	
+	"Color_Default"
+	{
+		"en"			"Default"
+		"ru"			"Стандартный"
+	}
+	
+	"Color_Teamcolor"
+	{
+		"en"			"Team color"
+		"ru"			"Цвет команды"
+	}
+	
+	"Color_White"
+	{
+		"en"			"White"
+		"ru"			"Белый"
+	}
+	
+	"Color_Drakred"
+	{
+		"en"			"Dark red"
+		"ru"			"Тёмно-красный"
+	}
+	
+	"Color_Green"
+	{
+		"en"			"Green"
+		"ru"			"Зелёный"
+	}
+	
+	"Color_Lightgreen"
+	{
+		"en"			"Light green"
+		"ru"			"Светло-зелёный"
+	}
+	
+	"Color_Lime"
+	{
+		"en"			"Lime"
+		"ru"			"Лаймовый"
+	}
+	
+	"Color_Red"
+	{
+		"en"			"Red"
+		"ru"			"Красный"
+	}
+	
+	"Color_Grey"
+	{
+		"en"			"Grey"
+		"ru"			"Серый"
+	}
+	
+	"Color_Olive"
+	{
+		"en"			"Olive"
+		"ru"			"Оливковый"
+	}
+	
+	"Color_Greyblue"
+	{
+		"en"			"Grey blue"
+		"ru"			"Серо-голубой"
+	}
+	
+	"Color_LightBlue"
+	{
+		"en"			"Light blue"
+		"ru"			"Голубой"
+	}
+	
+	"Color_Blue"
+	{
+		"en"			"Blue"
+		"ru"			"Синий"
+	}
+	
+	"Color_Purple"
+	{
+		"en"			"Purple"
+		"ru"			"Фиолетовый"
+	}
+	
+	"Color_Darkorange"
+	{
+		"en"			"Dark orange"
+		"ru"			"Тёмно-оранжевый"
+	}
+	
+	"Color_Orange"
+	{
+		"en"			"Orange"
+		"ru"			"Оранжевый"
+	}
+	
+	"Human"
+	{
+		"en"			"(Human)"
+		"ru"			"(Человек)"
+	}
+	
+	"Zombie"
+	{
+		"en"			"(Zombie)"
+		"ru"			"(Зомби)"
+	}
+	
+	"Spectator"
+	{
+		"en"			"(Spectator)"
+		"ru"			"(Наблюдатель)"
+	}
+	
+	"Dead"
+	{
+		"en"			"*DEAD*"
+		"ru"			"*МЁРТВ*"
+	}
+	
+	"Spectator_All"
+	{
+		"en"			"*SPECTATOR*"
+		"ru"			"*НАБЛЮДАТЕЛЬ*"
+	}
+	
+	"Admin_Chat"
+	{
+		"#format"		"{1:N},{2:s}"
+		"en"			" [Admin chat] {1} : {2}"
+		"ru"			" [Админ чат] {1} : {2}"
+	}
+	
+	"To_Admin_Chat"
+	{
+		"#format"		"{1:N},{2:s}"
+		"en"			" [To admin chat] {1} : {2}"
+		"ru"			" [В админ чат] {1} : {2}"
+	}
+	
+	"Admin_All_Message"
+	{
+		"#format"		"{1:s}"
+		"en"			" [Administrator] : {1}"
+		"ru"			" [Администратор] : {1}"
+	}
+	
+	"Admin_Admins_Message"
+	{
+		"#format"		"{1:N},{2:s}"
+		"en"			" [{1}] : {2}"
+		"ru"			" [{1}] : {2}"
+	}
+	
+	"PM_Sender"
+	{
+		"#format"		"{1:N},{2:s}"
+		"en"			" [To {1}] : {2}"
+		"ru"			" [Вы игроку {1}] : {2}"
+	}
+	
+	"PM_Recipient"
+	{
+		"#format"		"{1:N},{2:s}"
+		"en"			" [Message from {1}] : {2}"
+		"ru"			" [Сообщение от {1}] : {2}"
+	}
+	
+	"PM_NoInterlocutor"
+	{
+		"en"			"You have not written to anyone!"
+		"ru"			"Вы еще никому не писали!"
+	}
+	
+	"PM_PlayerDisconnected"
+	{
+		"en"			"Player disconnected from server!"
+		"ru"			"Игрок вышел с сервера!"
+	}
+	
+	"PM_Enter_Message"
+	{
+		"en"			"You need write a message!"
+		"ru"			"Вы не ввели сообщение!"
+	}
+	
+	"VIP_Chat"
+	{
+		"#format"		"{1:N},{2:s}"
+		"en"			" 	[VIP chat] {1} : {2}"
+		"ru"			" 	[VIP чат] {1} : {2}"
+	}
+	
+	"Additional_Prefix_Title"
+	{
+		"en"			"You have the following tags:"
+		"ru"			"Вам доступны следующие теги:"
+	}
+	
+	"Prefix_Disabled"
+	{
+		"en"			"Disabled"
+		"ru"			"Выключить"
+	}
+	
+	"Prefix_Technical_Administrator"
+	{
+		"en"			"[SM]"
+		"ru"			"[ТА]"
+	}
+	
+	"Prefix_Senior_Administrator"
+	{
+		"en"			"[SA]"
+		"ru"			"[СА]"
+	}
+	
+	"Prefix_Administrator"
+	{
+		"en"			"[A]"
+		"ru"			"[А]"
+	}
+	
+	"Prefix_Junior_Administrator"
+	{
+		"en"			"[JA]"
+		"ru"			"[МА]"
+	}
+	
+	"Prefix_Moderator"
+	{
+		"en"			"[M]"
+		"ru"			"[М]"
+	}
+	
+	"Hint_1"
+	{
+		"en"			" [JAZE] Do you like the server? Add to favorites - 46.174.54.145:27015"
+		"ru"			" [JAZE] Понравился сервер? Добавляйте в избранное - 46.174.54.145:27015"
+	}
+	
+	"Hint_2"
+	{
+		"en"			" [JAZE] Server commands list - !menu"
+		"ru"			" [JAZE] Список команд сервера - !menu"
+	}
+	
+	"Hint_3"
+	{
+		"en"			" [JAZE] Server website - jaze.ru"
+		"ru"			" [JAZE] Сайт сервера - jaze.ru"
+	}
+	
+	"Hint_4"
+	{
+		"en"			" [JAZE] Change volume/Turn off map music - !music"
+		"ru"			" [JAZE] Изменить громкость/Отключить музыку на карте - !music"
+	}
+	
+	"Hint_5"
+	{
+		"en"			" [JAZE] Quick buy weapons menu - !zbuy"
+		"ru"			" [JAZE] Меню быстрой покупки оружия - !zbuy"
+	}
+	
+	"Hint_6"
+	{
+		"en"			" [JAZE] Change zombie screams volume - !zvolume"
+		"ru"			" [JAZE] Изменить громкость криков зомби - !zvolume"
+	}
+	
+	"Hint_7"
+	{
+		"en"			" [JAZE] Disable screen shake - !noshake"
+		"ru"			" [JAZE] Отключить тряску экрана - !noshake"
+	}
+	
+	"Hint_8"
+	{
+		"en"			" [JAZE] Disable shot sounds  - !stopsound"
+		"ru"			" [JAZE] Отключить звуки выстрелов - !stopsound"
+	}
+	
+	"Hint_9"
+	{
+		"en"			" [JAZE] Hide players nearby - !hide"
+		"ru"			" [JAZE] Скрывать игроков рядом - !hide"
+	}
+	
+	"Hint_10"
+	{
+		"en"			" [JAZE] Vote for extend map time - !extend"
+		"ru"			" [JAZE] Проголосовать за продление карты - !extend"
+	}
+	
+	"Hint_11"
+	{
+		"en"			" [JAZE] Send private message - #nick 'text'. Reply - ##text"
+		"ru"			" [JAZE] Написать личное сообщение - #ник 'текст'. Ответить - ##текст"
+	}
+	
+	"Hint_12"
+	{
+		"en"			" [JAZE] Block player - !sm"
+		"ru"			" [JAZE] Заблокировать игрока - !sm"
+	}
+	
+	"Hint_13"
+	{
+		"en"			" [JAZE] View your stats - !zstats"
+		"ru"			" [JAZE] Просмотреть свою статистику - !zstats"
+	}
+}

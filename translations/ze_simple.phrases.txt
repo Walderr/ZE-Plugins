@@ -1,0 +1,123 @@
+﻿"Phrases"
+{
+	"FirstInfectionCountdown"
+	{
+		"#format"	"{1:i}"
+		"en"			"The infection will start in <font color='#00FF00'>{1} seconds</font>."
+		"ru"			"Заражение начнётся через <font color='#00FF00'>{1} секунд</font>."
+	}
+	
+	"InfectionStarted"
+	{
+		"en"			"<font color='#B40404'>Infection started!</font>"
+		"ru"			"<font color='#B40404'>Заражение началось!</font>"
+	}
+	
+	"TeleportingToSpawn"
+	{
+		"#format"	"{1:i}"
+		"en"			"Teleporting back to spawn in {1} seconds."
+		"ru"			"Телепортация в точку возрождения через {1} секунд."
+	}
+	
+	"TeleportedToSpawn"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"			"You successfully teleported to spawn! ({1} / {2} times)."
+		"ru"			"Вы телепортировались в точку возрождения! ({1} / {2} раз)."
+	}
+	
+	"ZteleLimitExceed"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"			"Teleportation limit exceeded! ({1} / {2} times)."
+		"ru"			"Превышен лимит на телепортацию! ({1} / {2} раз)."
+	}
+	
+	"ZteleCalceled"
+	{
+		"en"			"Teleportation canceled."
+		"ru"			"Телепортация отменена."
+	}
+	
+	"RandomInfectOnDisconnect"
+	{
+		"en"			"[ZE] The last zombie has left the game, and has passed the infection on to you."
+		"ru"			"[ZE] Единственный зомби покинул игру, поэтому вы заражены вместо него."
+	}
+	
+	"HurtPlayer"
+	{
+		"#format"	"{1:N},{2:i},{3:i}"
+		"en"			"<font color='#2EFE2E'>Zombie:</font> <font color='#FFFFFF'>{1}</font> \n<span class='fontSize-xl'><font color='#2EFE2E'>{2}</font></span> <span class='fontSize-xl'><font color='#B40404'> - {3}</font></span>"
+		"ru"			"<font color='#2EFE2E'>Зомби:</font> <font color='#FFFFFF'>{1}</font> \n<span class='fontSize-xl'><font color='#2EFE2E'>{2}</font></span> <span class='fontSize-xl'><font color='#B40404'> - {3}</font></span>"
+	}
+	
+	"KilledPlayer"
+	{
+		"#format"	"{1:N}"
+		"en"			"<font color='#FFFFFF'>You Killed to</font> <font color='#0066FF'>{1}</font>"
+		"ru"			"<font color='#FFFFFF'>Вы убили игрока</font> <font color='#0066FF'>{1}</font>"
+	}
+	
+	"RepeatKillsDetected"
+	{
+		"en"			"[ZE] Repeat kills detected. Disabling respawn for this round."
+		"ru"			"[ZE] Зафиксированы повторяющиеся убийства. Возрождение зомби отключено."
+	}
+	
+	"AlreadyHuman"
+	{
+		"#format"	"{1:N}"
+		"en"			"[ZE] {1} is already a human!"
+		"ru"			"[ZE] {1} уже является человеком!"
+	}
+	
+	"AlreadyZombie"
+	{
+		"#format"	"{1:N}"
+		"en"			"[ZE] {1} is already a zombie!"
+		"ru"			"[ZE] {1} уже является зомби!"
+	}
+	
+	"SuccessfullyMovedToHumans"
+	{
+		"#format"	"{1:N}"
+		"en"			"[ZE] {1} has been moved to humans!"
+		"ru"			"[ZE] {1} перемещён к людям!"
+	}
+	
+	"SuccessfullyMovedToZombies"
+	{
+		"#format"	"{1:N}"
+		"en"			"[ZE] {1} has been moved to zombies!"
+		"ru"			"[ZE] {1} перемещён к зомби!"
+	}
+	
+	"ZVolume_Menu_Title"
+	{
+		"en"			"ZVolume menu:"
+		"ru"			"Меню ZVolume:"
+	}
+	
+	"Hurt_Volume"
+	{
+		"#format"		"{1:s}"
+		"en"			"Scream volume when taking damage:\n    {1}"
+		"ru"			"Громкость крика при получении урона:\n    {1}"
+	}
+	
+	"Death_Volume"
+	{
+		"#format"		"{1:s}"
+		"en"			"Scream volume when dying:\n    {1}"
+		"ru"			"Громкость крика при смерти:\n    {1}"
+	}
+	
+	"Infect_Volume"
+	{
+		"#format"		"{1:s}"
+		"en"			"Scream volume when infected:\n    {1}"
+		"ru"			"Громкость крика при заражении:\n    {1}"
+	}
+}

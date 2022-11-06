@@ -1,0 +1,86 @@
+"Phrases"
+{
+	"CantBuyWeapon"
+	{
+		"ru"			"[ZBUY] Вы не можете покупать оружие."
+		"en"			"[ZBUY] You can't buy weapons."
+	}	
+	
+	"CantBuyArmor"
+	{
+		"ru"			"[ZBUY] Вы не можете покупать броню."
+		"en"			"[ZBUY] You can't buy armor."
+	}
+	
+	"CantBuyGrenade"
+	{
+		"ru"			"[ZBUY] Вы не можете покупать гранаты."
+		"en"			"[ZBUY] You can't buy grenades."
+	}
+	
+	"MustBeAlive"
+	{
+		"ru"			"[ZBUY] Вы должны быть живы!"
+		"en"			"[ZBUY] You must be alive!"
+	}	
+	
+	"NotEnoughMoney"
+	{
+		"ru"			"[ZBUY] У вас недостаточно денег."
+		"en"			"[ZBUY] You do not have enough money."
+	}	
+	
+	"MaxArmor"
+	{
+		"ru"			"[ZBUY] У вас максимальное количество брони."
+		"en"			"[ZBUY] You have the maximum amount of armor."
+	}	
+	
+	"AlreadyHaveGrenade"
+	{
+		"ru"			"[ZBUY] У вас уже есть эта граната."
+		"en"			"[ZBUY] You already have this grenade."
+	}	
+	
+	"Menu_PrimaryWeapons"
+	{
+		"ru"			"Основное оружие"
+		"en"			"Primary Weapons"
+	}
+
+	"Menu_SecondaryWeapons"
+	{
+		"ru"			"Дополнительное оружие"
+		"en"			"Secondary Weapons"
+	}
+	
+	"Menu_Equipment"
+	{
+		"ru"			"Экипировка"
+		"en"			"Equipment"
+	}
+	
+	"Menu_MainTitle"
+	{
+		"ru"			"ZBuy Меню <!zbuy>\nДеньги: $%i\n "
+		"en"			"ZBuy Menu <!zbuy>\nMoney: $%i\n "
+	}	
+	
+	"Menu_PrimaryTitle"
+	{
+		"ru"			"ZBuy Меню - Основное оружие\nДеньги: $%i\n "
+		"en"			"ZBuy Menu - Primary Weapons\nMoney: $%i\n "
+	}	
+	
+	"Menu_SecondaryTitle"
+	{
+		"ru"			"ZBuy Меню - Дополнительное оружие\nДеньги: $%i\n "
+		"en"			"ZBuy Menu - Secondary Weapons\nMoney: $%i\n "
+	}	
+	
+	"Menu_EquipmentTitle"
+	{
+		"ru"			"ZBuy Меню - Экипировка\nДеньги: $%i\n "
+		"en"			"ZBuy Menu - Equipment\nMoney: $%i\n "
+	}
+}

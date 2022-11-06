@@ -1,0 +1,43 @@
+"Phrases"
+{
+	"Boss Attack" 
+	{
+		"#format"		"{1:s},{2:i},{3:i},{4:i}"
+		"en"			"<font color='#FFFFFF'>Boss: </font> <font color='#2EFE2E'>{1}</font> \n<font color='#FFFFFF'>Health:</font> <span class='fontSize-xl'><font color='#2EFE2E'>{2}</font></span>		<font color='#808080'>{3}:{4}</font>"
+		"ru"			"<font color='#FFFFFF'>Босс: </font> <font color='#2EFE2E'>{1}</font> \n<font color='#FFFFFF'>Здоровье:</font> <span class='fontSize-xl'><font color='#2EFE2E'>{2}</font></span>		<font color='#808080'>{3}:{4}</font>"
+	}
+	
+	"Boss Attack Breakable" 
+	{
+		"#format"		"{1:s},{2:i}"
+		"en"			"<font color='#FFFFFF'>Boss: </font> <font color='#2EFE2E'>{1}</font> \n<font color='#FFFFFF'>Health:</font> <span class='fontSize-xl'><font color='#2EFE2E'>{2}</font></span>"
+		"ru"			"<font color='#FFFFFF'>Босс: </font> <font color='#2EFE2E'>{1}</font> \n<font color='#FFFFFF'>Здоровье:</font> <span class='fontSize-xl'><font color='#2EFE2E'>{2}</font></span>"
+	}
+	
+	"Boss Kill"
+	{
+		"en"			"<span class='fontSize-xl'><font color='#008000'>Boss killed!</font></span>"
+		"ru"			"<span class='fontSize-xl'><font color='#008000'>Босс убит!</font></span>"
+	}
+	
+	"Boss_Killed"
+	{
+		"#format"		"{1:N}"
+		"en"			" {1} 	Kills the boss!"
+		"ru"			" {1} 	Убивает босса!"
+	}
+	
+	"Boss_Top_Damager"
+	{
+		"#format"		"{1:N},{2:i}"
+		"en"			" {1} 	Deal {2} 	damage to the boss!"
+		"ru"			" {1} 	Нанёс боссу {2} 	ед. урона!"
+	}
+	
+	"Boss_Your_Damage"
+	{
+		"#format"		"{1:i}"
+		"en"			" You deal 	{1} damage to the boss"
+		"ru"			" Вы нанесли боссу 	{1} урона"
+	}
+}

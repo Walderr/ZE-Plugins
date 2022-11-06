@@ -1,0 +1,52 @@
+﻿"Phrases"
+{
+	"Spec_Menu_Title"
+	{
+		"en"			"Choose player:"
+		"ru"			"Выберите игрока:"
+	}
+	
+	"Dev_Menu_Title"
+	{
+		"en"			"Testing menu:"
+		"ru"			"Меню тестирования:"
+	}
+	
+	"ForceSpec_Menu_Title"
+	{
+		"en"			"Move to spectators:"
+		"ru"			"Переместить в наблюдатели:"
+	}
+	
+	"ForceMovedToSpec_Himself"
+	{
+		"#format"		"{1:N}"
+		"en"			"{1} moved himself to spectators."
+		"ru"			"{1} переместил себя в наблюдатели."
+	}
+	
+	"ForceMovedToSpec"
+	{
+		"#format"		"{1:N},{2:N}"
+		"en"			"{1} moved {2} to spectators."
+		"ru"			"{1} переместил игрока {2} в наблюдатели."
+	}
+	
+	"ESP_Bad_Team"
+	{
+		"en"			"You must be in the spectators team to use this command!"
+		"ru"			"Для использования этой команды вы должны быть в наблюдателях!"
+	}
+	
+	"ESP_Enabled"
+	{
+		"en"			"ESP turned on!"
+		"ru"			"Подсветка игроков включена!"
+	}
+	
+	"ESP_Disabled"
+	{
+		"en"			"ESP turned off!"
+		"ru"			"Подсветка игроков отключена!"
+	}
+}

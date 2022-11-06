@@ -1,0 +1,463 @@
+﻿"Phrases"
+{
+	"Hide_Menu_Title"
+	{
+		"en"			"Hide options:"
+		"ru"			"Параметры отображения игроков:"
+	}
+	
+	"Enable_Hide"
+	{
+		"en"			"Hide players: "
+		"ru"			"Скрывать игроков: "
+	}
+	
+	"On"
+	{
+		"en"			"[enabled]"
+		"ru"			"[включено]"
+	}
+	
+	"Off"
+	{
+		"en"			"[disabled]"
+		"ru"			"[отключено]"
+	}
+	
+	"Custom_Distance"
+	{
+		"en"			"To change the distance manually, use\n!hide [value]"
+		"ru"			"Для изменения дистанции вручную, используйте\n!hide [значение]"
+	}
+	
+	"Hide_All"
+	{
+		"en"			"Hide all: "
+		"ru"			"Скрывать всех: "
+	}	
+	
+	"Hide_Leader"
+	{
+		"en"			"Hide commander: "
+		"ru"			"Скрывать командира: "
+	}
+	
+	"Distance"
+	{
+		"en"			"Range: "
+		"ru"			"Дальность: "
+	}
+	
+	"CustomDistance_Chat"
+	{
+		"#format"	"{1:i}"
+		"en"			"[hide] You have set the range {1}."
+		"ru"			"[hide] Вы установили дальность {1}."
+	}
+	
+	"Distance_Very_Close"
+	{
+		"en"			"Very close"
+		"ru"			"Очень близко"
+	}
+	
+	"Distance_Close"
+	{
+		"en"			"Close"
+		"ru"			"Близко"
+	}
+	
+	"Distance_Normal"
+	{
+		"en"			"Normal"
+		"ru"			"Нормально"
+	}
+	
+	"Distance_Far"
+	{
+		"en"			"Far"
+		"ru"			"Далеко"
+	}
+	
+	"Distance_Very_Far"
+	{
+		"en"			"Very far"
+		"ru"			"Очень далеко"
+	}
+	
+	"Distance_Custom"
+	{
+		"en"			"Custom"
+		"ru"			"Своя"
+	}
+	
+	"Distance_Exceeded"
+	{
+		"en"			"[hide] The range must be between: 0 - 9 999 999!"
+		"ru"			"[hide] Дальность должна быть в пределах: 0 - 9 999 999!"
+	}
+	
+	"Hideall_Enabled"
+	{
+		"en"			"[hide] You have hidden all the players of your team!"
+		"ru"			"[hide] Вы скрыли всех игроков своей команды!"
+	}
+	
+	"Hideall_Disabled"
+	{
+		"en"			"[hide] You turned off the hide of all the players of your team!"
+		"ru"			"[hide] Вы отключили скрытие всех игроков своей команды!"
+	}
+	
+	"Buttons_Log"
+	{
+		"#format"		"{1:N},{2:i},{3:s}"
+		"en"			"[Buttons] {1} pressed button {2} {3}"
+		"ru"			"[Buttons] {1} нажал кнопку {2} {3}"
+	}
+	
+	"Buttons_Ban"
+	{
+		"#format"		"{1:N},{2:N}"
+		"en"			"[Buttons] {1} forbade the player {2} to press buttons."
+		"ru"			"[Buttons] {1} запретил игроку {2} нажимать на кнопки."
+	}
+	
+	"Buttons_Unban"
+	{
+		"#format"		"{1:N},{2:N}"
+		"en"			"[Buttons] {1} removed from the player {2} a ban on pressing buttons."
+		"ru"			"[Buttons] {1} снял с игрока {2} запрет на нажатие кнопок."
+	}
+	
+	"Cant_Press_Buttons"
+	{
+		"en"			"<font color='#B40404'>You are not allowed to press buttons!</font>"
+		"ru"			"<font color='#B40404'>Вам запрещено нажимать на кнопки!</font>"
+	}
+	
+	"Buttons_Menu_Title"
+	{
+		"en"			"Show button presses in chat?"
+		"ru"			"Выводить нажатия кнопок в чат?"
+	}
+	
+	"Yes"
+	{
+		"en"			"Yes"
+		"ru"			"Да"
+	}
+	
+	"No"
+	{
+		"en"			"No"
+		"ru"			"Нет"
+	}
+	
+	"Cant_Spec"
+	{
+		"en"			"This command is available only for observers!"
+		"ru"			"Команда доступна только для наблюдателей!"
+	}
+	
+	"Infect_Or_Wait"
+	{
+		"en"			"Become a zombie or wait for the start of the round!"
+		"ru"			"Станьте зомби или дождитесь начала раунда!"
+	}
+	
+	"Already_Spec"
+	{
+		"en"			"You are already in the observers!"
+		"ru"			"Вы уже находитесь в наблюдателях!"
+	}
+	
+	"Few_Zombies"
+	{
+		"en"			"There are too few zombies in the team, infect some humans!"
+		"ru"			"В команде слишком мало зомби, заразите людей!"
+	}
+	
+	"Wait_MoveToSpec"
+	{
+		"en"			"You will go to the observers in 15 seconds!"
+		"ru"			"Вы перейдёте в наблюдатели через 15 секунд!"
+	}
+	
+	"Successfully_MovedToSpec"
+	{
+		"en"			"You went to the observers."
+		"ru"			"Вы перешли в наблюдатели."
+	}
+	
+	"Admin_Extend_Map"
+	{
+		"#format"		"{1:N},{2:i},{3:s}"
+		"en"			"{1} extended map for {2} minutes. Time left: {3}"
+		"ru"			"{1} продлил карту на {2} минут. Времени осталось: {3}"
+	}
+	
+	"Admin_Reduce_Map"
+	{
+		"#format"		"{1:N},{2:i},{3:s}"
+		"en"			"{1} reduced map for {2} minutes. Time left: {3}"
+		"ru"			"{1} сократил карту на {2} минут. Времени осталось: {3}"
+	}
+	
+	"Dont_Have_Permission"
+	{
+		"en"			"You don't have permission to use this command!"
+		"ru"			"У вас нет прав на выполнение данной команды!"
+	}
+	
+	"Vote_Unavailable"
+	{
+		"en"			"Voting is now unavailable!"
+		"ru"			"Голосование сейчас недоступно!"
+	}
+	
+	"Max_Extends"
+	{
+		"en"			"The map can no longer be extended!"
+		"ru"			"Карту больше нельзя продлевать!"
+	}
+	
+	"Already_Vote"
+	{
+		"en"			"Voting has already begun!"
+		"ru"			"Голосование уже началось!"
+	}
+	
+	"Need_More_Players"
+	{
+		"en"			"To vote for the extend map must be at least 15 players!"
+		"ru"			"Для голосования за продление карты должно быть не меньше 15 игроков!"
+	}
+	
+	"You_Already_Voted"
+	{
+		"#format"		"{1:i},{2:i}"
+		"en"			"You have already voted to extend the map! ({1}/{2} votes)."
+		"ru"			"Вы уже проголосовали за продление карты! ({1}/{2} голосов)."
+	}
+	
+	"Successfully_Voted"
+	{
+		"#format"		"{1:N},{2:i},{3:i}"
+		"en"			"{1} voted to extend the map. ({2}/{3} votes)."
+		"ru"			"{1} проголосовал за продление карты. ({2}/{3} голосов)."
+	}
+	
+	"Vote_Starting"
+	{
+		"en"			"Voting for extend the map will start in 5 seconds."
+		"ru"			"Голосование за продление карты начнётся через 5 секунд."
+	}
+	
+	"Successfully_Extended"
+	{
+		"#format"		"{1:s}"
+		"en"			"The map is extended for 15 minutes. Time left: {1}"
+		"ru"			"Карта продлена на 15 минут. Времени осталось: {1}"
+	}
+	
+	"Vote_Failed"
+	{
+		"en"			"The map will not be extended."
+		"ru"			"Карта не будет продлена."
+	}
+	
+	"Extend_VoteMenu_Title"
+	{
+		"en"			"Extend map for 15 minutes?"
+		"ru"			"Продлить карту на 15 минут?"
+	}
+	
+	"Timeleft"
+	{
+		"#format"		"{1:i}"
+		"en"			"Timeleft: {1}:%02d"
+		"ru"			"Осталось: {1}:%02d"
+	}
+	
+	"Timeleft_LastRound"
+	{
+		"en"			"Last Round"
+		"ru"			"Последний раунд"
+	}
+	
+	"NextMap"
+	{
+		"#format"		"{1:s}"
+		"en"			" [SM] Next map: {1}"
+		"ru"			" [SM] Следующая карта: {1}"
+	}
+	
+	"Commands_Menu_Title"
+	{
+		"en"			"Server Commands:"
+		"ru"			"Команды сервера:"
+	}
+	
+	"rtv"
+	{
+		"en"			"rtv - vote for map change"
+		"ru"			"rtv - проголосовать за смену карты"
+	}
+	
+	"nominate"
+	{
+		"en"			"nominate - suggest map for voting"
+		"ru"			"nominate - предложить карту для голосования"
+	}
+	
+	"nextmap"
+	{
+		"en"			"nextmap - find out next map"
+		"ru"			"nextmap - узнать следующую карту"
+	}
+	
+	"zbuy"
+	{
+		"en"			"!zbuy - quick purchase weapons menu"
+		"ru"			"!zbuy - меню быстрой закупки оружия"
+	}
+	
+	"music"
+	{
+		"en"			"!music - turn off map music"
+		"ru"			"!music - отключить музыку на карте"
+	}
+	
+	"stopsound"
+	{
+		"en"			"!stopsound - disable weapon sounds"
+		"ru"			"!stopsound - отключить звуки выстрелов"
+	}
+	
+	"ztele"
+	{
+		"en"			"!ztele - teleport to spawn"
+		"ru"			"!ztele - телепортироваться на спавн"
+	}
+	
+	"zvolume"
+	{
+		"en"			"!zvolume - change zombie screams volume"
+		"ru"			"!zvolume - изменить громкость криков зомби"
+	}
+	
+	"hide"
+	{
+		"en"			"!hide - hide players nearby"
+		"ru"			"!hide - скрывать игроков поблизости"
+	}
+	
+	"extend"
+	{
+		"en"			"!extend - vote for extend map"
+		"ru"			"!extend - проголосовать за продление карты"
+	}
+	
+	"nomlist"
+	{
+		"en"			"!nomlist - list of nominated maps"
+		"ru"			"!nomlist - список предложенных карт"
+	}
+	
+	"exlist"
+	{
+		"en"			"!exlist - recent maps list"
+		"ru"			"!exlist - недавние карты"
+	}
+	
+	"noshake"
+	{
+		"en"			"!noshake - disable screen shake"
+		"ru"			"!noshake - отключить тряску экрана"
+	}
+	
+	"timeleft"
+	{
+		"en"			"timeleft - time before map change"
+		"ru"			"timeleft - узнать время до смены карты"
+	}
+	
+	"selfmute"
+	{
+		"en"			"!sm - mute player"
+		"ru"			"!sm - заблокировать игрока"
+	}
+	
+	"selfunmute"
+	{
+		"en"			"!su - unmute player"
+		"ru"			"!su - разблокировать игрока"
+	}
+	
+	"spec"
+	{
+		"en"			"!spec - go to the spectators"
+		"ru"			"!spec - перейти в наблюдатели"
+	}
+	
+	"guns"
+	{
+		"en"			"!guns - weapon selection menu"
+		"ru"			"!guns - меню выбора оружия"
+	}
+	
+	"admins"
+	{
+		"en"			"!admins - online admins list"
+		"ru"			"!admins - список администраторов онлайн"
+	}
+	
+	"hud"
+	{
+		"en"			"!hud - display special items info"
+		"ru"			"!hud - отображать информацию о материях"
+	}
+	
+	"settings"
+	{
+		"en"			"!settings - advanced settings"
+		"ru"			"!settings - дополнительные настройки"
+	}
+	
+	"votecommander"
+	{
+		"en"			"!votecommander - select commander"
+		"ru"			"!votecommander - выбрать командира"
+	}
+	
+	"tp"
+	{
+		"en"			"!tp - enable 3rd person view"
+		"ru"			"!tp - включить вид от 3-го лица"
+	}
+	
+	"zclass"
+	{
+		"en"			"!zclass - select player class"
+		"ru"			"!zclass - выбрать класс игрока"
+	}
+	
+	"zstats"
+	{
+		"en"			"!zstats - statistics"
+		"ru"			"!zstats - статистика"
+	}
+	
+	"top"
+	{
+		"en"			"!top - top players list"
+		"ru"			"!top - список лучших игроков"
+	}
+	
+	"vip"
+	{
+		"en"			"!vip - VIP menu"
+		"ru"			"!vip - VIP меню"
+	}
+}
